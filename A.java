@@ -5,7 +5,7 @@ public class A {
 
 
         System.out.println("Amar");
-        System.out.println("Amar");
+        
     }
 
 
